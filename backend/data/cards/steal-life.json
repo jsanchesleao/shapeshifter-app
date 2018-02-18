@@ -1,0 +1,17 @@
+{
+  "id": "steal-life",
+  "category": "move",
+  "stats": {
+    "delay": 3,
+    "damage": 2,
+    "advantage": 2,
+    "type": "special",
+    "stack": 2,
+    "abilities": [
+      {
+        "key": "absorb",
+        "level": 1
+      }
+    ]
+  }
+}
